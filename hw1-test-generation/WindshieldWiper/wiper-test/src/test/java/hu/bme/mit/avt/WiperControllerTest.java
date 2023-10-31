@@ -10,8 +10,7 @@ public class WiperControllerTest {
 		WiperMotor motor = mock(WiperMotor.class);
 		
 		WiperController controller = new WiperControllerImpl(motor);
-		
-		controller.setWiperSwitch(WiperMode.OFF);
+
 	}
 	
 }

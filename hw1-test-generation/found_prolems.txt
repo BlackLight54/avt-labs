@@ -1,0 +1,1 @@
+The test uncovered a problem with the implementation, specifically that the AUTO setting doesn't check the data from the rain sensor when it is initially set, but just defaults to 0.5, and only changes when the raindata is updated. This violates the the spec. 

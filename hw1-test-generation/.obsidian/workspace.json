@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "87115a60a02095c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e71dfb9a7ac23b79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fa4e42fa3e2722d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "992f8ff95f247a20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Submission_Farkas_Martin_GV2RF8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ffc4aa41ea89bcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "201cc32012f5faf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "554cb0aba4784b86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "576c916ec92d8b9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e67a0c69f7d1c18f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "346b0356143a6eac",
+    "type": "split",
+    "children": [
+      {
+        "id": "2747ef2a995bc934",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4c16509d711096e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Submission_Farkas_Martin_GV2RF8.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7ae673ccb34cf5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Submission_Farkas_Martin_GV2RF8.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c7804d681734f77",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b03be3ef7c0fed65",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Submission_Farkas_Martin_GV2RF8.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "992f8ff95f247a20",
+  "lastOpenFiles": [
+    "final_model_Screenshot.png.~tmp",
+    "Submission_Farkas_Martin_GV2RF8.pdf",
+    "Submission_Farkas_Martin_GV2RF8.md"
+  ]
+}
